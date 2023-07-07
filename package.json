@@ -18,7 +18,7 @@
     "gulp-webp": "4.0.1",
     "postcss": "8.2.10",
     "postcss-csso": "5.0.0",
-    "stylelint": "13.8.0",
+    "stylelint": "15.10.1",
     "stylelint-config-htmlacademy": "0.1.4"
   },
   "scripts": {
